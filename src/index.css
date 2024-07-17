@@ -1,0 +1,304 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" );
+
+body {
+    background-color: whitesmoke;
+    align-items: center;
+    overflow-x: hidden;
+   
+   
+  }
+  
+  .top {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px -270px 0px -320px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 80px;
+  }
+  
+  b {
+    color: white;
+  }
+  
+  .logo {
+    font-family: "Inter", sans-serif;
+    font-size: 42px;
+    
+  }
+  
+  .sub-buttons {
+    background-color: inherit;
+    border: 3px solid black;
+    margin: 30px;
+    padding: 10 30;
+    height: 40px;
+    width: 160px;
+  
+  
+  }
+  
+  span {
+  
+    margin-left: 70px;
+  }
+  
+  .head {
+  
+    
+    background-image: url("./Pictures/hero.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 1200px;
+  }
+  
+  .top-buttons {
+    margin-top: 40px;
+    margin-right: -250px;
+
+  }
+  
+  .mid-text {
+    margin-top: 340px;
+    text-align: center;
+  }
+  
+  .heading {
+    font-family: "Inter", sans-serif;
+    font-size: 130px;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0;
+  }
+  
+  .sub-heading {
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-weight: 380;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0;
+    margin-top: -19px;
+  }
+  .underline{
+    margin-left:850px;
+    border: 3px solid black;
+    background-color: black;
+    width: 150px;
+    
+  }
+  
+  hr {
+    margin-top: 35px;
+    width: 50px;
+    height: 3px;
+    color: black;
+    background-color: black;
+  
+  }
+  
+  .Latest-articles {
+    display: flex;
+    justify-content: space-evenly;
+  
+  
+  }
+  
+  .article-pic {
+  
+    width: 400px;
+    height: 300px;
+  
+  
+  }
+  
+  .Latest-articles {
+  
+  
+    align-items: center;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .single-art {
+    margin-top: 120px;
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+    border: 1px solid white;
+    width: 400px;
+    height: 450px;
+    
+  
+  }
+  
+  .about-us {
+    margin-top: 250px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    align-items: center;
+    
+  
+  
+  }
+  
+  .about {
+    margin-left: 310px;
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+
+  
+  }
+  
+  .about-para {
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+    margin: 100;
+  }
+  .about-sec{
+
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+  
+
+
+ .last-image{
+   
+    width: 7000px;
+    height: 800px;
+    background-image: url("./Pictures/drone8.jpg");
+    background-size: cover;
+ }
+  
+  .heading-2 {
+    font-size: 32px;
+    font-weight: 300;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    margin: 200px;
+  }
+  
+  .line {
+    background-color: black;
+    border: 1px solid black;
+    width: 70px;
+    height: 0px;
+    margin-top: -170px;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  .line-2 {
+    background-color: black;
+    border: 1px solid black;
+    width: 70px;
+    height: 0px;
+    margin-top: -170;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  .subscri-section {
+  
+    margin-left: 750px;
+    margin-top: 80px;
+    font-family: "Inter", sans-serif;
+  
+  
+  
+  }
+  
+  .input-box {
+    width: 600px;
+    height: 60px;
+    border: none;
+    padding-left: 20px;
+  }
+  
+  
+  
+  .sec-header {
+    margin-left: 150px;
+    font-size: 50px;
+    font-weight: 300;
+    font-family: "Inter", sans-serif;
+  }
+ 
+  
+  .message {
+    margin-left: 180px;
+    font-size: 20px;
+  }
+  
+  .last-buttons {
+    border: 1px solid black;
+    margin-left: 200px;
+    margin-top: 40px;
+    padding: 10 30;
+    height: 40px;
+    width: 190px;
+    font-size: 20px;
+   
+  
+  
+  }
+  
+  .footer {
+    background-color: white;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 80px;
+    margin-top: 130px;
+  }
+  .bottom-buttons{
+    margin-top: 40px;
+    margin-left: 1200px;
+    margin-top: -50px;
+    margin-bottom: 40px;
+  }
+  .icons{
+    margin: 15px;
+    margin-top: 70px;
+    justify-content: space-around;
+    width: 38px;
+    height: 38px;
+  }
+  
+  .footer-subscribe{
+    background-color: inherit;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 65px;
+    padding: 10 30;
+    height: 40px;
+    width: 170px;
+  }
+  
+  .drone-disc{
+  
+    margin-left: 110px;
+    width: 190px;
+    overflow-wrap: anywhere;
+  }
+  .drone8{
+
+    width: 970px;
+    height:980px;
+  }
+
+  @media screen {
+    
+  }
+  
