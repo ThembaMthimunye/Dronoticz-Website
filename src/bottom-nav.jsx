@@ -12,7 +12,7 @@ function Last() {
                 <img className="icons" src={linkedin} alt="" />
                 <img className="icons" src={pintrest} alt="" />
 
-                <p className="bottom-buttons">ABOUT <span>ARTICLES</span></p>
+                <p className="bottom-buttons"><a href="#about">ABOUT </a><a href="#articles"><span>ARTICLES</span></a></p>
             </div>
             <button className="footer-subscribe">SUBSCRIBE</button>
             

@@ -13,16 +13,31 @@ body {
   .top {
     display: flex;
     justify-content: space-around;
-    margin: 0px -270px 0px -320px;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 80px;
+    
   }
   
   b {
     color: white;
   }
+ .about-articles{
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  font-weight:-200px;
+  margin-top: 50px;
+  margin-left: 180px;
   
+
+ }
+ a{
+  text-decoration: none;
+  margin-left: 40px;
+  color: black;
+ }
+ 
+    
   .logo {
+    margin-left: 10px;
     font-family: "Inter", sans-serif;
     font-size: 42px;
     
@@ -31,7 +46,8 @@ body {
   .sub-buttons {
     background-color: inherit;
     border: 3px solid black;
-    margin: 30px;
+    margin-top: 40px;
+    margin-right:-50px;
     padding: 10 30;
     height: 40px;
     width: 160px;
@@ -50,8 +66,8 @@ body {
     background-image: url("./Pictures/hero.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-
     height: 1200px;
+    align-items: center;
   }
   
   .top-buttons {

@@ -3,8 +3,8 @@ function Header() {
         <div className="head">
             <div className="top">
                 <p className="logo">D<b>Z</b></p>
-                <p className="top-buttons">ABOUT <span>ARTICLES</span></p>
-                <button className="sub-buttons">SUBSCRIBE</button>
+                <p className="about-articles"><a href="#about">ABOUT</a><a href="#articles">ARTICLES</a></p>
+                <a href="#last"><button className="sub-buttons">SUBSCRIBE</button></a>
             </div>
             <div className="mid-text">
                 <h1 className="heading">DRONOTICZ</h1>
